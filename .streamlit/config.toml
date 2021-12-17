@@ -3,7 +3,7 @@
 primaryColor = "#4169E1"
 
 # Background color for the main content area
-backgroundColor = '#FFFAFA'
+backgroundColor = '#FFFFFF'
 
 # Color used for almost all text.
 textColor = "#0d0d0d"
